@@ -46,7 +46,9 @@ resume-screening/
 
 > ⚠️ Note: Keep module/file names consistent with imports used inside `streamlit_app.py`.  
 > If you import `from src.utils_match import ...`, then keep files under `src/` and update imports accordingly.
+## Output 
 
+![My Banner](./screenshots)
 ---
 
 ## 🚀 Quick Start
