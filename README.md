@@ -48,7 +48,7 @@ resume-screening/
 > If you import `from src.utils_match import ...`, then keep files under `src/` and update imports accordingly.
 ## Output 
 
-![My Banner](./screenshots/screenshots/Screenshot%20(890).png)
+![My Banner](./screenshots/Screenshot%20(890).png)
 ---
 
 ## 🚀 Quick Start
