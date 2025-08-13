@@ -3,9 +3,10 @@
 A fast, lightweight **Applicant-side ATS** tool to match resumes against a Job Description (JD).  
 It calculates **similarity score (TF-IDF + cosine)**, extracts **matched & missing skills**, and lets you **download a CSV report**.
 
-> Built for quick screening by applicants and recruiters. Runs locally with Streamlit — no heavyweight ML required.
+> Built for quick screening by applicants and recruiters. Runs locally with Streamlit — no heavyweight ML required. <
 
----
+![My Banner](./screenshots/infographic-resume-example__1_.png)
+
 
 ## ✨ Features
 - 📄 **Upload Multiple Resumes** — PDF/TXT supported
